@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2cd5801b1e4477a4123b198a",
+  "owner": "vcenct",
+  "repo": "page-9c14bde1798eeaca725c7058",
+  "title": "Kevin",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9c14bde1798eeaca725c7058",
+      "a": "Kevin",
+      "b": "机场官网线路发布页",
+      "entity": "Kevin",
+      "brand": "Kevin",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ce26e2d97aee958d8d1a5e746bd4444d910095ccb72de51cded396517be7f020",
+      "content": {
+        "primary_entity": "Kevin",
+        "keyword1": "Kevin",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择适配客户端，桌面端与移动端各有对应方案。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "查看套餐对比，按设备数量与流量需求选择适合的订阅。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，面向需要稳定跨境访问的用户提供多档订阅方案，覆盖桌面与移动设备。基础版适合轻度使用，旗舰版增加 IPLC 专线与游戏加速优化，团队版支持多设备与企业定制路由，可按月或按年付费。",
+          "AI_FAQ_ANSWER_1": "月付适合短期使用，年付折算后每月更低。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用年付更划算。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。超出数量时新设备会等待释放，升级套餐可提高上限。",
+          "AI_FAQ_ANSWER_3": "旗舰版与团队版包含流媒体解锁，基础版解锁基础流媒体。具体可用平台以实际节点为准，团队版 VIP 节点带宽更高。",
+          "AI_FAQ_ANSWER_4": "Windows、macOS、Android、iOS 各有常用客户端可选。选择对应系统客户端后导入订阅地址即可，具体导入步骤按客户端文档操作。",
+          "AI_FAQ_ANSWER_5": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。流量月底清零，未用完部分不累积到下月。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "不同套餐的流媒体解锁有区别吗？",
+          "AI_FAQ_QUESTION_4": "客户端在哪里下载和导入订阅？",
+          "AI_FAQ_QUESTION_5": "套餐流量用完了怎么办？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度快速了解 Kevin 的使用方式。",
+          "AI_FEATURES_TITLE": "订阅特点",
+          "AI_FEATURE_TEXT_1": "基础版适合轻量使用，旗舰版提供 IPLC 专线与流媒体全解锁，团队版面向多设备与定制路由需求。",
+          "AI_FEATURE_TEXT_2": "每档套餐标注可同时在线设备数，从 3 台到 20 台，按家庭或团队人数选择对应档位即可。",
+          "AI_FEATURE_TEXT_3": "支持月付与年付，年付价格低于按月累计，长期使用可节省费用并减少续费频率。",
+          "AI_FEATURE_TITLE_1": "三档套餐按需选",
+          "AI_FEATURE_TITLE_2": "设备数量明确",
+          "AI_FEATURE_TITLE_3": "周期灵活",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "Kevin 提供多档海外加速订阅，覆盖基础、旗舰与团队版本。按设备数量、月流量和线路类型选择套餐，支持月付或年付，桌面与移动端均有对应客户端可配置。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付折算每月价格更低",
+          "AI_PLANS_INTRO": "基础版适合个人轻度使用，旗舰版适合流媒体与游戏加速，团队版支持多设备与企业定制。按年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、月流量和线路需求，在基础版、旗舰版或团队版中选一档。",
+          "AI_STEP_TEXT_2": "确认套餐支持的设备上限与流媒体解锁范围，判断是否满足日常使用。",
+          "AI_STEP_TEXT_3": "下载对应系统客户端，按客户端文档导入订阅地址并连接节点。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配需求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Kevin 海外加速订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tlfnfh.cn",
+    "host": "tlfnfh.cn"
+  },
+  "file_hashes": {
+    "index.html": "477cd7343ec336ddbb53987d93cf53a640ebd98a57ace2c243efd27d651cf958",
+    "sitemap.xml": "37bd4b466b59141d66a58dd1cd23576fbd1ae1c9141fa684be70e6f12cf077bd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1b5708ffaf09f44551f9dc70039838feb0c39f2d8c4e16f19423e6051ed8bbd5",
+    "robots.txt": "0f3438151ec4347dec2f474125513ce094b4f6121e46d8086ece80dc630cdd00",
+    "9b79160a3c979d1960dea2a74eedca92.txt": "0671cad5adb6728bb2dc4a83c450eb89aea3cb453374af86fc9d376715ead89c"
+  },
+  "revision": "876baff1b4df191ffb8c35350669f165a64f6de2b8f095a4a495a02ef70d9822"
+}
